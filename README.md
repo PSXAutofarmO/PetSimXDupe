@@ -1,2 +1,0 @@
-# PetSimXDupe
-for psx
